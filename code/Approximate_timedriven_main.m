@@ -63,7 +63,7 @@ delta_t_values = [0.0000937 * 1.084.^(0:pt_N);
     0.0000937 * 1.084.^(0:pt_N);
     0.0000937 * 1.084.^(0:pt_N)];
 
-% To construct a table to store 'nu' info: --------------------------------
+% To construct a table to store the WH info: --------------------------------
 delta_t = delta_t_values(k, :);     
 
 % Store the setup parameters and the IC: --------------------------------
